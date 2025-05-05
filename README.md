@@ -38,8 +38,8 @@ The Notebook performs the following analysis:
 
 1. **Exploratory Data Analysis:** Find out for missing or problematic data and perform cleaning techniques (e.g., dropping irrelevant columns, replacing missing values).
 2. **Visualization:** Uses bar plots and histograms to visualize the distribution of coupon types and temperature.
-3. **Bar Coupon Analysis:** Focuses specifically on bar coupons and explores acceptance rates based on factors like frequency of bar visits, age, and passenger type.
-4. **Independent Investigation:** Encourages further exploration of other coupon groups to determine the characteristics of passengers who accept those coupons.
+3. **Bar Coupon Analysis:** Investigate on bar coupons and explores acceptance rates based on factors like frequency of bar visits, age, and passenger type using pandas library and visualization tools.
+4. **Independent Investigation:** Performe similar analysis as above (bar coupons) in the food coupns area (dine-in and carry away).
 
 ## Findings
 
