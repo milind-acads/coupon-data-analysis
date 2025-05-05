@@ -39,16 +39,17 @@ The Notebook performs the following analysis:
 1. **Exploratory Data Analysis:** Find out for missing or problematic data and perform cleaning techniques (e.g., dropping irrelevant columns, replacing missing values).
 2. **Visualization:** Uses bar plots and histograms to visualize the distribution of coupon types and temperature.
 3. **Bar Coupon Analysis:** Investigate on bar coupons and explores acceptance rates based on factors like frequency of bar visits, age, and passenger type using pandas library and visualization tools.
-4. **Independent Investigation:** Performe similar analysis as above (bar coupons) in the food coupns area (dine-in and carry away).
+4. **Independent Investigation:** Performs similar analysis as above (bar coupons) in the food coupns area (dine-in and carry away).
 
 ## Findings
 
-The analysis reveals potential correlations between coupon acceptance and factors such as frequency of visits to relevant establishments, age, passenger type, and potentially occupation and marital status. The notebook provides detailed insights into the acceptance rates for different customer segments and offers hypotheses about driver behavior.
+The analysis reveals coupon acceptance rates with multiple factors such as frequency of visits to businesses (example bars), age, passenger type etc. In the current form, notebook focuses on bars and food coupons but same approach can be used for others like coffee shops.
 
 ## Usage
 
 To run this notebook, you will need:
 
-1. Clone this repository.
-2. Open the Jupyter Notebook and execute the cells.
+1. Install Jupyter Notebook on workstation or access Google Colab.
+2. Clone this repository.
+3. Open the Notebook and execute the cells.
 
