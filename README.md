@@ -12,13 +12,8 @@ This project analyzes a dataset from the UCI Machine Learning repository which w
 The dataset is collected through a survey on Amazon Mechanical Turk. It includes the following features:
 
 **Dataset Information:**
-- Gender
-- Age
-- Marital Status
+- Driver Info (Gender, Age, Marital Status, Education, Occupation, Annual Income)
 - Number of Children travelling
-- Education
-- Occupation
-- Annual Income
 - Frequency of visits to bars, coffee houses, restaurants, and takeaway places
 - Driving Destination
 - Location of User, Coupon, and Destination
