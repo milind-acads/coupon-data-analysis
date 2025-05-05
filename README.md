@@ -27,9 +27,10 @@ The dataset is collected through a survey on Amazon Mechanical Turk. It includes
 - Time
 - Passenger
 
-**Coupon Attributes:**
+**Coupon Information:**
 - Type of Coupon (Restaurant, Coffee House, Bar, etc.)
 - Expiration Time
+- Business Type (Restaraunt, Bar, Coffee Shop)
 
 ## Analysis
 
