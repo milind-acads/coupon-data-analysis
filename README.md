@@ -5,23 +5,21 @@ Data Analysis to identify if folks driving by a town would accept a coupon from 
 
 ## Project Overview
 
-This project analyzes a dataset from the UCI Machine Learning repository to understand the factors influencing customer acceptance of driving coupons. The dataset contains information about user demographics, driving context, and coupon details. The goal is to identify patterns and characteristics that differentiate customers who accept coupons from those who don't.
+This project analyzes a dataset from the UCI Machine Learning repository which was collected via a survey on Amazon Mechanical Turk. The survey describes different driving scenarios including the destination, current time, weather, passenger, etc. This can be used to understand the factors influencing customer acceptance of driving coupons. The dataset contains information about user age, user income group, passenger information, and coupon details. The goal is to identify patterns to idetify customers who will accept certain types of coupons.
 
 ## Dataset
 
 The dataset is collected through a survey on Amazon Mechanical Turk. It includes the following features:
 
-**User Attributes:**
+**Dataset Information:**
 - Gender
 - Age
 - Marital Status
-- Number of Children
+- Number of Children travelling
 - Education
 - Occupation
 - Annual Income
 - Frequency of visits to bars, coffee houses, restaurants, and takeaway places
-
-**Contextual Attributes:**
 - Driving Destination
 - Location of User, Coupon, and Destination
 - Weather
@@ -35,7 +33,7 @@ The dataset is collected through a survey on Amazon Mechanical Turk. It includes
 
 ## Analysis
 
-The Jupyter Notebook performs the following analysis:
+The Notebook performs the following analysis:
 
 1. **Data Exploration and Cleaning:** Investigates the dataset for missing or problematic data and applies appropriate cleaning techniques (e.g., dropping irrelevant columns, replacing missing values).
 2. **Overall Coupon Acceptance:** Calculates the proportion of total observations that chose to accept the coupon.
@@ -51,13 +49,6 @@ The analysis reveals potential correlations between coupon acceptance and factor
 
 To run this notebook, you will need:
 
-- Python 3
-- Jupyter Notebook
-- Pandas
-- Seaborn
-- Matplotlib
-
 1. Clone this repository.
-2. Install the necessary libraries.
-3. Open the Jupyter Notebook and execute the cells.
+2. Open the Jupyter Notebook and execute the cells.
 
