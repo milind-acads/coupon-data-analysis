@@ -36,11 +36,10 @@ The dataset is collected through a survey on Amazon Mechanical Turk. It includes
 
 The Notebook performs the following analysis:
 
-1. **Data Exploration and Cleaning:** Investigates the dataset for missing or problematic data and applies appropriate cleaning techniques (e.g., dropping irrelevant columns, replacing missing values).
-2. **Overall Coupon Acceptance:** Calculates the proportion of total observations that chose to accept the coupon.
-3. **Visualization:** Uses bar plots and histograms to visualize the distribution of coupon types and temperature.
-4. **Bar Coupon Analysis:** Focuses specifically on bar coupons and explores acceptance rates based on factors like frequency of bar visits, age, and passenger type.
-5. **Independent Investigation:** Encourages further exploration of other coupon groups to determine the characteristics of passengers who accept those coupons.
+1. **Exploratory Data Analysis:** Find out for missing or problematic data and perform cleaning techniques (e.g., dropping irrelevant columns, replacing missing values).
+2. **Visualization:** Uses bar plots and histograms to visualize the distribution of coupon types and temperature.
+3. **Bar Coupon Analysis:** Focuses specifically on bar coupons and explores acceptance rates based on factors like frequency of bar visits, age, and passenger type.
+4. **Independent Investigation:** Encourages further exploration of other coupon groups to determine the characteristics of passengers who accept those coupons.
 
 ## Findings
 
