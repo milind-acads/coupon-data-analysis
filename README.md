@@ -46,5 +46,5 @@ To run this notebook, you will need:
 
 1. Install Jupyter Notebook on workstation or access Google Colab.
 2. Clone this repository.
-3. Open the Notebook and execute the cells.
+3. Open the Notebook and execute the cells. Here is the [link]([url](https://github.com/milind-acads/coupon-data-analysis/blob/main/prompt.ipynb)) of this notebook
 
